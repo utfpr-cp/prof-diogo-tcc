@@ -12,7 +12,7 @@ Acostume-se com isso, mas tenha certeza que o resultado final será bacana!
 
 # Áreas de Interesse
 
-É muito bacana quando nós pesquisamos e trabalhamos com as áreas que realmente gostamos, por isso, eu darei preferência a projetos que sejam de minha área de interesse, que basicamente globalmente se trata de __Desenvolvimento Web__
+É muito bacana quando nós pesquisamos e trabalhamos com as áreas que realmente gostamos, por isso, eu darei preferência a projetos que sejam de minha área de interesse, que basicamente se trata de __Desenvolvimento Web__
 
 Dentro do desenvolvimento, tenho interesse essencialmente nas tecnologias:
 
@@ -23,12 +23,16 @@ Dentro do desenvolvimento, tenho interesse essencialmente nas tecnologias:
 + Front-End
 	+ Bootstrap;
 	+ VUE.js
+	+ ReactJS;
+	+ Rect Native;
+	+ Angular;
 	+ Gulp
 	+ SASS
 	+ JavaScript;
 + Back-End
-	+ PHP
-	+ Node.js
+	+ PHP;
+	+ NodeJS;
++ Micro-serviços;
 
 # Como se candidatar?
 
@@ -37,6 +41,8 @@ Basta enviar um email com a ideia do seu projeto para __diogoc@utfpr.edu.br__
 E marcar uma reunião em um dos meus horários de ~~PALUNO~~.
 
 Gostaria de deixar claro que, como tenho várias atividades e vários outros orientandos, terei que avaliar se será possível a orientação em questão, pois, como disse, gosto de fazer tudo muito bem feito, e por isso, gosto de corrigir, sugerir, verificar os códigos e tudo mais, e isso leva tempo.
+
+__Para que seja possível uma avaliação inicial eu gostaria que o candidato escrevesse resumidamente alguns parágrafos explicando o seu trabalho, como se fosse um capítulo de introdução de sua monografia. Este material é essencial para a o confirmação de sua vaga__
 
 Então, mesmo que eu não consiga lhe orientar, certamente terei prazer em lhe atender e ajudar como co-orientador.
 
