@@ -6,7 +6,7 @@ Neste repositório irei organizar uma série de instruções para os alunos que 
 
 A primeira coisa é: __prepare-se para fazer as coisas bem feitas__.
 
-Se você me conhece um pouco, sabe que eu tenho princípios de ~~TOC~~ (hehe) e por esse motivo, vou pedir para você ajustar até o último ponto final, ou reposicionar o seu botão **2px** para a direira.
+Se você me conhece um pouco, sabe que eu tenho princípios de ~~TOC~~ (hehe) e por esse motivo, vou pedir para você ajustar até o último ponto final, ou reposicionar o seu botão **2px** para a direita.
 
 Acostume-se com isso, mas tenha certeza que o resultado final será bacana!
 
@@ -24,7 +24,7 @@ Dentro do desenvolvimento, tenho interesse essencialmente nas tecnologias:
 	+ Bootstrap;
 	+ VUE.js
 	+ ReactJS;
-	+ Rect Native;
+	+ React Native;
 	+ Angular;
 	+ Gulp
 	+ SASS
@@ -42,7 +42,7 @@ E marcar uma reunião em um dos meus horários de ~~PALUNO~~.
 
 Gostaria de deixar claro que, como tenho várias atividades e vários outros orientandos, terei que avaliar se será possível a orientação em questão, pois, como disse, gosto de fazer tudo muito bem feito, e por isso, gosto de corrigir, sugerir, verificar os códigos e tudo mais, e isso leva tempo.
 
-__Para que seja possível uma avaliação inicial eu gostaria que o candidato escrevesse resumidamente alguns parágrafos explicando o seu trabalho, como se fosse um capítulo de introdução de sua monografia. Este material é essencial para a o confirmação de sua vaga__
+__Para que seja possível uma avaliação inicial eu gostaria que o candidato escrevesse resumidamente alguns parágrafos explicando o seu trabalho, como se fosse um capítulo de introdução de sua monografia. Este material é essencial para a confirmação de sua vaga__
 
 Então, mesmo que eu não consiga lhe orientar, certamente terei prazer em lhe atender e ajudar como co-orientador.
 
@@ -118,7 +118,7 @@ Por isso, se Git e GitHub ainda são problemas... Então você pode consultar o 
 
 Bom, depois de criar uma conta no GitHub, peço que criem os seguintes repositórios:
 
-+ __tcc-docs__ : Um repositório para organizarmos nossos documentos, anotações, pesquisas, dicas, resumos e etc. Podem organizar esse repositório em pastas. No README.MD principal, coloquem um índice para cada item e tentem seguir a seguente estrutura de pastas:
++ __tcc-docs__ : Um repositório para organizarmos nossos documentos, anotações, pesquisas, dicas, resumos e etc. Podem organizar esse repositório em pastas. No README.MD principal, coloquem um índice para cada item e tentem seguir a seguinte estrutura de pastas:
 
     + __reuniões__ : Um log do que ficou combinado em cada uma das reuniões;
 
