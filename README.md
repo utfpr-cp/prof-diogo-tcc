@@ -20,8 +20,8 @@ Dentro do desenvolvimento, tenho interesse essencialmente nas tecnologias:
 + SEO (Search Engine Optimization)
 + Computação Evolucionária
 + IA voltada para Web
+	+ Machine Learning
 + Front-End
-	+ Bootstrap;
 	+ VUE.js
 	+ ReactJS;
 	+ React Native;
@@ -33,18 +33,17 @@ Dentro do desenvolvimento, tenho interesse essencialmente nas tecnologias:
 	+ PHP;
 	+ NodeJS;
 + Micro-serviços;
++ Docker;
 
 # Como se candidatar?
 
 Basta enviar um email com a ideia do seu projeto para __diogoc@utfpr.edu.br__
 
-E marcar uma reunião em um dos meus horários de ~~PALUNO~~.
+E marcar uma reunião em um dos meus horários disponíveis.
 
-Gostaria de deixar claro que, como tenho várias atividades e vários outros orientandos, terei que avaliar se será possível a orientação em questão, pois, como disse, gosto de fazer tudo muito bem feito, e por isso, gosto de corrigir, sugerir, verificar os códigos e tudo mais, e isso leva tempo.
+Gostaria de deixar claro que, como tenho várias atividades e vários outros orientandos, terei que avaliar se será possível a orientação em questão.
 
-__Para que seja possível uma avaliação inicial eu gostaria que o candidato escrevesse resumidamente alguns parágrafos explicando o seu trabalho, como se fosse um capítulo de introdução de sua monografia. Este material é essencial para a confirmação de sua vaga__
-
-Então, mesmo que eu não consiga lhe orientar, certamente terei prazer em lhe atender e ajudar como co-orientador.
+__Para que seja possível uma avaliação inicial eu gostaria que o candidato escrevesse resumidamente alguns parágrafos explicando o seu trabalho, como se fosse um capítulo de introdução de sua monografia. Este material é essencial para a confirmação de sua vaga.__
 
 __Keep in touch.__
 
@@ -64,6 +63,7 @@ Você precisará conhecer as seguintes tecnologias:
 6. [Normas TCC](#normas-tcc)
 7. [Dicas TCC](#dicas-tcc)
 8. [Modelo Word](#modelo-word)
+9. [Considerações Finais](#consideracoes-finais)
 
 # Markdown
 
@@ -149,9 +149,13 @@ __tcc-code__ : Um repositório com a implementação de fato do seu trabalho;
 
 # Aprenda Inglês
 
-Bom, a maioria dos conteúdos relevantes estão em inglês, então, dê sempre preferências a pesquisas e conteúdos na língua inglesa.
+Em um cenário onde cada vez mais a linguagem universal da tecnologia é o inglês, se você ainda não tem conhecimento técnico de inglês, de forma fundamental a leitura, corra atrás do seu prejuízo. A quantidade de cursos, informações, vídeos, dicas e shortcuts hoje, com a internet, tende ao infinito.
 
-Também é interessante procurar por artigos e publicações em Inglês.
+Adianto que, no caso de IC inglês é ferramenta obrigatória visto que toda escrita de artigos dar-se-á em inglês. Já para o TCC a lingua inglesa é uma possibilidade e será considerada como fator determinante na eventual necessidade de existir mais candidatos que vagas.
+
+Dos artigos das áreas de interesse, 99% estão em inglês.
+
+__Get used to it__
 
 # Normas TCC
 
@@ -171,11 +175,9 @@ Então dê uma olhada neste reposirótio:
 
 # Modelo Word
 
-Aqui temos um modelo do Word para a elaboração do seu TCC.
+It's a Trap! Não trabalharei com documentos em Word.
 
-Realmente não recomendo, a não ser que o LaTeX seja algo que começe a comprometer o seu cronograma.
-
-* https://github.com/utfpr-cp/utfpr-modelo-word
+# Considerações Finais
 
 É isso, espero que com este guia você possa se organizar melhor e começar seus estudos.
 
